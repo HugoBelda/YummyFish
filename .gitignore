@@ -1,10 +1,7 @@
 # Ignora todo por defecto
 *
 
-# Permite carpetas esenciales
-!Assets/
-!Packages/
-!ProjectSettings/
+
 
 # Unity generado
 [Ll]ibrary/
