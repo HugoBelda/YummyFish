@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: b11432b19019ae242891d372b6529aa3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - soundEnemy1: {instanceID: 0}
+  - soundEnemy2: {fileID: 8300000, guid: 058077a00d86ec24782a86b5176c40a1, type: 3}
+  - soundEnemy3: {instanceID: 0}
+  - soundEnemy4: {instanceID: 0}
+  - soundDamage1: {fileID: 8300000, guid: f1b4e52f008070a418efe6170c62dd31, type: 3}
+  - soundDamage2: {instanceID: 0}
+  - soundEnterCoralMarron: {instanceID: 0}
+  - soundEnterCoralRojo: {instanceID: 0}
+  - soundEnterCoralMorado: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
